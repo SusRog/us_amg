@@ -1,0 +1,1492 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://appgallery.huawei.com/#/app/",
+      "interid": "ca-app-pub-2324545565656576/1033173712",
+      "nativeid": "ca-app-pub-2324545565656576/2247696110",
+      "openads": "ca-app-pub-2324545565656576/1033173712",
+      "interval": 6,
+      "pengaturan_iklan": "1",
+      "fan_inter": "#",
+      "fan_banner_native": "#",
+      "inmobi_inter": "#",
+      "inmobi_banner": "#",
+      "inmobi_id": "#",
+      "startaap": "45456565543",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "Fall Guys Wallpaper 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/6adaa1e7c7254f28a55d4121706eb12a.png",
+      "link": "https://appgallery.huawei.com/#/app/C103007475"
+    },
+    {
+      "id": 2,
+      "judul": "PUBG Wallpapers 4K",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/044be08e6f0c4beda5d5fe1e292d1153.png",
+      "link": "https://appgallery.huawei.com/#/app/C103004863"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Among Us Walls 1",
+      "gambar": "https://i.pinimg.com/564x/5a/8b/86/5a8b86b74d6ef5d6d5743a158ca09bf3.jpg"
+    },
+    {
+      "id": 2,
+      "nama_cat": "Among Us Walls 2",
+      "gambar": "https://i.pinimg.com/564x/01/63/5c/01635c256e0f6277945e3ddd8d384985.jpg"
+    },
+    {
+      "id": 3,
+      "nama_cat": "Among Us Walls 3",
+      "gambar": "https://i.pinimg.com/564x/38/f5/de/38f5de763667893276374d97ff0a42db.jpg"
+    },
+    {
+      "id": 4,
+      "nama_cat": "Among Us Walls 4",
+      "gambar": "https://i.pinimg.com/564x/e0/f3/e2/e0f3e249ba9822a05dd849e5b7c9458d.jpg"
+    },
+    {
+      "id": 5,
+      "nama_cat": "Among Us Walls 5",
+      "gambar": "https://i.pinimg.com/564x/fd/91/9a/fd919ad975a635cf2da5f01fb913c369.jpg"
+    },
+    {
+      "id": 6,
+      "nama_cat": "Among Us Walls 6",
+      "gambar": "https://i.pinimg.com/564x/43/57/c9/4357c9dd85bac4e99d475295478fb14e.jpg"
+    },
+    {
+      "id": 7,
+      "nama_cat": "Among Us Walls 7",
+      "gambar": "https://i.pinimg.com/564x/cd/ad/36/cdad364b5862f230a6e013fa90fb3e17.jpg"
+    },
+    {
+      "id": 8,
+      "nama_cat": "Among Us Walls 8",
+      "gambar": "https://i.pinimg.com/564x/8a/1a/47/8a1a476f212850d39ae8a934049bddc2.jpg"
+    },
+    {
+      "id": 9,
+      "nama_cat": "Among Us Walls 9",
+      "gambar": "https://i.pinimg.com/564x/5c/61/82/5c61821a7ed64c46c44e4586737f82ce.jpg"
+    },
+    {
+      "id": 10,
+      "nama_cat": "Among Us Walls 10",
+      "gambar": "https://i.pinimg.com/474x/19/58/ea/1958ea5b1fb77a7c0ba15730057899b1.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "id_wall": "001",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 1",
+      "image": "https://i.ibb.co/HD9FQVL/mong44.jpg"
+    },
+    {
+      "id": 2,
+      "id_wall": "002",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 2",
+      "image": "https://i.ibb.co/hC7LF3T/mong45.jpg"
+    },
+    {
+      "id": 3,
+      "id_wall": "003",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 3",
+      "image": "https://i.ibb.co/yWBxmX3/mong46.jpg"
+    },
+    {
+      "id": 4,
+      "id_wall": "004",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 4",
+      "image": "https://i.ibb.co/W6zwvmj/mong47.jpg"
+    },
+    {
+      "id": 5,
+      "id_wall": "005",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 5",
+      "image": "https://i.ibb.co/gywgNQX/mong48.jpg"
+    },
+    {
+      "id": 6,
+      "id_wall": "006",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 6",
+      "image": "https://i.ibb.co/0G4bg5d/mong49.jpg"
+    },
+    {
+      "id": 7,
+      "id_wall": "007",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 7",
+      "image": "https://i.ibb.co/2hQDgzC/mong50.jpg"
+    },
+    {
+      "id": 8,
+      "id_wall": "008",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 8",
+      "image": "https://i.ibb.co/0yZZVyP/mong51.jpg"
+    },
+    {
+      "id": 9,
+      "id_wall": "009",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 9",
+      "image": "https://i.ibb.co/T2GWhnL/mong52.jpg"
+    },
+    {
+      "id": 10,
+      "id_wall": "010",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 10",
+      "image": "https://i.ibb.co/2K82tMB/mong53.jpg"
+    },
+    {
+      "id": 11,
+      "id_wall": "011",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 11",
+      "image": "https://i.ibb.co/t2CTw4S/mong54.jpg"
+    },
+    {
+      "id": 12,
+      "id_wall": "012",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 12",
+      "image": "https://i.ibb.co/BNFkV5w/mong55.jpg"
+    },
+    {
+      "id": 13,
+      "id_wall": "013",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 13",
+      "image": "https://i.ibb.co/64DMb1Z/mong56.jpg"
+    },
+    {
+      "id": 14,
+      "id_wall": "014",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 14",
+      "image": "https://i.ibb.co/3z59vGJ/mong57.jpg"
+    },
+    {
+      "id": 15,
+      "id_wall": "015",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 15",
+      "image": "https://i.ibb.co/4tWd9B0/mong58.jpg"
+    },
+    {
+      "id": 16,
+      "id_wall": "016",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 16",
+      "image": "https://i.ibb.co/WvpNc1L/mong59.jpg"
+    },
+    {
+      "id": 17,
+      "id_wall": "017",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 17",
+      "image": "https://i.ibb.co/WFgX7pm/mong60.jpg"
+    },
+    {
+      "id": 18,
+      "id_wall": "018",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 18",
+      "image": "https://i.ibb.co/6HKqTz9/mong61.jpg"
+    },
+    {
+      "id": 19,
+      "id_wall": "019",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 19",
+      "image": "https://i.ibb.co/hmgVj5W/mong62.jpg"
+    },
+    {
+      "id": 20,
+      "id_wall": "020",
+      "nama_cat": "Among Us Walls 1",
+      "judul": "IMG-A 20",
+      "image": "https://i.ibb.co/BBwWgzB/mong63.jpg"
+    },
+    {
+      "id": 21,
+      "id_wall": "021",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 1",
+      "image": "https://i.ibb.co/nPgngJg/mong64.jpg"
+    },
+    {
+      "id": 22,
+      "id_wall": "022",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 2",
+      "image": "https://i.ibb.co/kxSVYL0/mong65.jpg"
+    },
+    {
+      "id": 23,
+      "id_wall": "023",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 3",
+      "image": "https://i.ibb.co/DwwGmbP/mong66.jpg"
+    },
+    {
+      "id": 24,
+      "id_wall": "024",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 4",
+      "image": "https://i.ibb.co/f979gLv/mong67.jpg"
+    },
+    {
+      "id": 25,
+      "id_wall": "025",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 5",
+      "image": "https://i.ibb.co/PNLGkxb/mong68.jpg"
+    },
+    {
+      "id": 26,
+      "id_wall": "026",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 6",
+      "image": "https://i.ibb.co/jwWz9zX/mong69.jpg"
+    },
+    {
+      "id": 27,
+      "id_wall": "027",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 7",
+      "image": "https://i.ibb.co/87k9Vs7/mong70.jpg"
+    },
+    {
+      "id": 28,
+      "id_wall": "028",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 8",
+      "image": "https://i.ibb.co/h1hjgBF/mong71.jpg"
+    },
+    {
+      "id": 29,
+      "id_wall": "029",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 9",
+      "image": "https://i.ibb.co/g7Bss0h/mong72.jpg"
+    },
+    {
+      "id": 30,
+      "id_wall": "030",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 10",
+      "image": "https://i.ibb.co/5W8wKvF/mong73.jpg"
+    },
+    {
+      "id": 31,
+      "id_wall": "031",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 11",
+      "image": "https://i.ibb.co/2s61tq4/mong74.jpg"
+    },
+    {
+      "id": 32,
+      "id_wall": "032",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 12",
+      "image": "https://i.ibb.co/G5TKhMk/mong75.jpg"
+    },
+    {
+      "id": 33,
+      "id_wall": "033",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 13",
+      "image": "https://i.ibb.co/p41LKL3/mong76.jpg"
+    },
+    {
+      "id": 34,
+      "id_wall": "034",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 14",
+      "image": "https://i.ibb.co/0s1dp6T/mong77.jpg"
+    },
+    {
+      "id": 35,
+      "id_wall": "035",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 15",
+      "image": "https://i.ibb.co/HDr4ZyK/mong78.jpg"
+    },
+    {
+      "id": 36,
+      "id_wall": "036",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 16",
+      "image": "https://i.ibb.co/LgpvHKq/mong79.jpg"
+    },
+    {
+      "id": 37,
+      "id_wall": "037",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 17",
+      "image": "https://i.ibb.co/ydhStvC/mong80.jpg"
+    },
+    {
+      "id": 38,
+      "id_wall": "038",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 18",
+      "image": "https://i.ibb.co/wZqxJ6n/mong81.jpg"
+    },
+    {
+      "id": 39,
+      "id_wall": "039",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 19",
+      "image": "https://i.ibb.co/LnrZDGb/mong82.jpg"
+    },
+    {
+      "id": 40,
+      "id_wall": "040",
+      "nama_cat": "Among Us Walls 2",
+      "judul": "IMG-B 20",
+      "image": "https://i.ibb.co/QpyjG3b/mong83.jpg"
+    },
+    {
+      "id": 41,
+      "id_wall": "041",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 1",
+      "image": "https://i.ibb.co/RbfzKR4/mong84.jpg"
+    },
+    {
+      "id": 42,
+      "id_wall": "042",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 2",
+      "image": "https://i.ibb.co/pxZB4mC/mong85.jpg"
+    },
+    {
+      "id": 43,
+      "id_wall": "043",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 3",
+      "image": "https://i.ibb.co/YPR8FQK/mong86.jpg"
+    },
+    {
+      "id": 44,
+      "id_wall": "044",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 4",
+      "image": "https://i.ibb.co/cv1hz0f/mong87.jpg"
+    },
+    {
+      "id": 45,
+      "id_wall": "045",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 5",
+      "image": "https://i.ibb.co/Z6Fpx7L/mong88.jpg"
+    },
+    {
+      "id": 46,
+      "id_wall": "046",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 6",
+      "image": "https://i.ibb.co/t20vKr4/mong89.jpg"
+    },
+    {
+      "id": 47,
+      "id_wall": "047",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 7",
+      "image": "https://i.ibb.co/qxNYvYQ/mong90.jpg"
+    },
+    {
+      "id": 48,
+      "id_wall": "048",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 8",
+      "image": "https://i.ibb.co/NtqYqgY/mong91.jpg"
+    },
+    {
+      "id": 49,
+      "id_wall": "049",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 9",
+      "image": "https://i.ibb.co/LPVV9GW/mong92.jpg"
+    },
+    {
+      "id": 50,
+      "id_wall": "050",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 10",
+      "image": "https://i.ibb.co/rQWpn9h/mong93.jpg"
+    },
+    {
+      "id": 51,
+      "id_wall": "051",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 11",
+      "image": "https://i.ibb.co/zQdrCRR/mong94.jpg"
+    },
+    {
+      "id": 52,
+      "id_wall": "052",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 12",
+      "image": "https://i.ibb.co/wcZSh2N/mong95.jpg"
+    },
+    {
+      "id": 53,
+      "id_wall": "053",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 13",
+      "image": "https://i.ibb.co/wYxdfXR/mong96.jpg"
+    },
+    {
+      "id": 54,
+      "id_wall": "054",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 14",
+      "image": "https://i.ibb.co/3vv4bWx/mong97.jpg"
+    },
+    {
+      "id": 55,
+      "id_wall": "055",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 15",
+      "image": "https://i.ibb.co/9bbM0pj/mong98.jpg"
+    },
+    {
+      "id": 56,
+      "id_wall": "056",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 16",
+      "image": "https://i.ibb.co/MgC2gsQ/mong99.jpg"
+    },
+    {
+      "id": 57,
+      "id_wall": "057",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 17",
+      "image": "https://i.ibb.co/PwNwwcz/mong100.jpg"
+    },
+    {
+      "id": 58,
+      "id_wall": "058",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 18",
+      "image": "https://i.ibb.co/y0kXFjd/mong101.jpg"
+    },
+    {
+      "id": 59,
+      "id_wall": "059",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 19",
+      "image": "https://i.ibb.co/qmLxWKW/mong102.jpg"
+    },
+    {
+      "id": 60,
+      "id_wall": "060",
+      "nama_cat": "Among Us Walls 3",
+      "judul": "IMG-C 20",
+      "image": "https://i.ibb.co/pWMJtSP/mong103.jpg"
+    },
+    {
+      "id": 61,
+      "id_wall": "061",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 1",
+      "image": "https://i.ibb.co/cLKrQ71/mong104.jpg"
+    },
+    {
+      "id": 62,
+      "id_wall": "062",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 2",
+      "image": "https://i.ibb.co/yn6T2Ss/mong105.jpg"
+    },
+    {
+      "id": 63,
+      "id_wall": "063",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 3",
+      "image": "https://i.ibb.co/WKwPJHV/mong106.jpg"
+    },
+    {
+      "id": 64,
+      "id_wall": "064",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 4",
+      "image": "https://i.ibb.co/gyDMx7P/mong107.jpg"
+    },
+    {
+      "id": 65,
+      "id_wall": "065",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 5",
+      "image": "https://i.ibb.co/JQFmFYp/mong108.jpg"
+    },
+    {
+      "id": 66,
+      "id_wall": "066",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 6",
+      "image": "https://i.ibb.co/zX9LLDr/mong109.jpg"
+    },
+    {
+      "id": 67,
+      "id_wall": "067",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 7",
+      "image": "https://i.ibb.co/DDyW71H/mong110.jpg"
+    },
+    {
+      "id": 68,
+      "id_wall": "068",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 8",
+      "image": "https://i.ibb.co/Krg4jzF/mong111.jpg"
+    },
+    {
+      "id": 69,
+      "id_wall": "069",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 9",
+      "image": "https://i.ibb.co/pdmwBBw/mong112.jpg"
+    },
+    {
+      "id": 70,
+      "id_wall": "070",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 10",
+      "image": "https://i.ibb.co/QvZMCPN/mong113.jpg"
+    },
+    {
+      "id": 71,
+      "id_wall": "071",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 11",
+      "image": "https://i.ibb.co/k1RtWtY/mong114.jpg"
+    },
+    {
+      "id": 72,
+      "id_wall": "072",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 12",
+      "image": "https://i.ibb.co/Lphw4Lw/mong115.jpg"
+    },
+    {
+      "id": 73,
+      "id_wall": "073",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 13",
+      "image": "https://i.ibb.co/YpkvQYY/mong116.jpg"
+    },
+    {
+      "id": 74,
+      "id_wall": "074",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 14",
+      "image": "https://i.ibb.co/bsrkdHj/mong117.jpg"
+    },
+    {
+      "id": 75,
+      "id_wall": "075",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 15",
+      "image": "https://i.ibb.co/vchYxrm/mong118.jpg"
+    },
+    {
+      "id": 76,
+      "id_wall": "076",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 16",
+      "image": "https://i.ibb.co/sbnq0Z1/mong119.jpg"
+    },
+    {
+      "id": 77,
+      "id_wall": "077",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 17",
+      "image": "https://i.ibb.co/PjfYyfc/mong120.jpg"
+    },
+    {
+      "id": 78,
+      "id_wall": "078",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 18",
+      "image": "https://i.ibb.co/9v99f99/mong121.jpg"
+    },
+    {
+      "id": 79,
+      "id_wall": "079",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 19",
+      "image": "https://i.ibb.co/g9fk4ZB/mong122.jpg"
+    },
+    {
+      "id": 80,
+      "id_wall": "080",
+      "nama_cat": "Among Us Walls 4",
+      "judul": "IMG-D 20",
+      "image": "https://i.ibb.co/cg08JY7/mong123.jpg"
+    },
+    {
+      "id": 81,
+      "id_wall": "081",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 1",
+      "image": "https://i.ibb.co/BBVVDTf/mong124.jpg"
+    },
+    {
+      "id": 82,
+      "id_wall": "082",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 2",
+      "image": "https://i.ibb.co/L5cVTFz/mong125.jpg"
+    },
+    {
+      "id": 83,
+      "id_wall": "083",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 3",
+      "image": "https://i.ibb.co/Yc1pdWp/mong126.jpg"
+    },
+    {
+      "id": 84,
+      "id_wall": "084",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 4",
+      "image": "https://i.ibb.co/0CLVPk9/mong127.jpg"
+    },
+    {
+      "id": 85,
+      "id_wall": "085",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 5",
+      "image": "https://i.ibb.co/yNRXWr0/mong128.jpg"
+    },
+    {
+      "id": 86,
+      "id_wall": "086",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 6",
+      "image": "https://i.ibb.co/rdZdNzV/mong129.jpg"
+    },
+    {
+      "id": 87,
+      "id_wall": "087",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 7",
+      "image": "https://i.ibb.co/zs7y3Nq/mong130.jpg"
+    },
+    {
+      "id": 88,
+      "id_wall": "088",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 8",
+      "image": "https://i.ibb.co/gzhp7vZ/mong131.jpg"
+    },
+    {
+      "id": 89,
+      "id_wall": "089",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 9",
+      "image": "https://i.ibb.co/Qm3Lb8m/mong132.jpg"
+    },
+    {
+      "id": 90,
+      "id_wall": "090",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 10",
+      "image": "https://i.ibb.co/vzrhNyD/mong133.jpg"
+    },
+    {
+      "id": 91,
+      "id_wall": "091",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 11",
+      "image": "https://i.ibb.co/YtNFfBs/mong134.jpg"
+    },
+    {
+      "id": 92,
+      "id_wall": "092",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 12",
+      "image": "https://i.ibb.co/Fwp9f4W/mong135.jpg"
+    },
+    {
+      "id": 93,
+      "id_wall": "093",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 13",
+      "image": "https://i.ibb.co/4ZV39qC/mong136.jpg"
+    },
+    {
+      "id": 94,
+      "id_wall": "094",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 14",
+      "image": "https://i.ibb.co/TbSFd75/mong137.jpg"
+    },
+    {
+      "id": 95,
+      "id_wall": "095",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 15",
+      "image": "https://i.ibb.co/zSTyBTB/mong138.jpg"
+    },
+    {
+      "id": 96,
+      "id_wall": "096",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 16",
+      "image": "https://i.ibb.co/y0HSqM1/mong139.jpg"
+    },
+    {
+      "id": 97,
+      "id_wall": "097",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 17",
+      "image": "https://i.ibb.co/Hnw0ysJ/mong140.jpg"
+    },
+    {
+      "id": 98,
+      "id_wall": "098",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 18",
+      "image": "https://i.ibb.co/bb93vzF/mong141.jpg"
+    },
+    {
+      "id": 99,
+      "id_wall": "099",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 19",
+      "image": "https://i.ibb.co/c3z4BJW/mong142.jpg"
+    },
+    {
+      "id": 100,
+      "id_wall": "100",
+      "nama_cat": "Among Us Walls 5",
+      "judul": "IMG-E 20",
+      "image": "https://i.ibb.co/ypfBbH4/mong143.jpg"
+    },
+    {
+      "id": 101,
+      "id_wall": "101",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 1",
+      "image": "https://i.ibb.co/DbFfQg8/mong144.jpg"
+    },
+    {
+      "id": 102,
+      "id_wall": "102",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 2",
+      "image": "https://i.ibb.co/r5FF1KM/mong145.jpg"
+    },
+    {
+      "id": 103,
+      "id_wall": "103",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 3",
+      "image": "https://i.ibb.co/9yRRp2w/mong146.jpg"
+    },
+    {
+      "id": 104,
+      "id_wall": "104",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 4",
+      "image": "https://i.ibb.co/M9z7sH1/mong147.jpg"
+    },
+    {
+      "id": 105,
+      "id_wall": "105",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 5",
+      "image": "https://i.ibb.co/qkJXgsm/mong148.jpg"
+    },
+    {
+      "id": 106,
+      "id_wall": "106",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 6",
+      "image": "https://i.ibb.co/sQvfj2v/mong149.jpg"
+    },
+    {
+      "id": 107,
+      "id_wall": "107",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 7",
+      "image": "https://i.ibb.co/HXZJ83j/mong150.jpg"
+    },
+    {
+      "id": 108,
+      "id_wall": "108",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 8",
+      "image": "https://i.ibb.co/XJ2fQPp/mong151.jpg"
+    },
+    {
+      "id": 109,
+      "id_wall": "109",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 9",
+      "image": "https://i.ibb.co/ZxJc3gD/mong152.jpg"
+    },
+    {
+      "id": 110,
+      "id_wall": "110",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 10",
+      "image": "https://i.ibb.co/Qmsbtn6/mong153.jpg"
+    },
+    {
+      "id": 111,
+      "id_wall": "111",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 11",
+      "image": "https://i.ibb.co/0Xtv4k9/mong154.jpg"
+    },
+    {
+      "id": 112,
+      "id_wall": "112",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 12",
+      "image": "https://i.ibb.co/pWs4TT2/mong155.jpg"
+    },
+    {
+      "id": 113,
+      "id_wall": "113",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 13",
+      "image": "https://i.ibb.co/MkdT805/mong156.jpg"
+    },
+    {
+      "id": 114,
+      "id_wall": "114",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 14",
+      "image": "https://i.ibb.co/zGgQNhC/mong157.jpg"
+    },
+    {
+      "id": 115,
+      "id_wall": "115",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 15",
+      "image": "https://i.ibb.co/DDv7BdN/mong158.jpg"
+    },
+    {
+      "id": 116,
+      "id_wall": "116",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 16",
+      "image": "https://i.ibb.co/sbYRjhX/mong159.jpg"
+    },
+    {
+      "id": 117,
+      "id_wall": "117",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 17",
+      "image": "https://i.ibb.co/r4jJyJf/mong160.jpg"
+    },
+    {
+      "id": 118,
+      "id_wall": "118",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 18",
+      "image": "https://i.ibb.co/qjZ3qyS/mong161.jpg"
+    },
+    {
+      "id": 119,
+      "id_wall": "119",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 19",
+      "image": "https://i.ibb.co/12nwqxK/mong162.jpg"
+    },
+    {
+      "id": 120,
+      "id_wall": "120",
+      "nama_cat": "Among Us Walls 6",
+      "judul": "IMG-F 20",
+      "image": "https://i.ibb.co/ydqYrzS/mong163.jpg"
+    },
+    {
+      "id": 121,
+      "id_wall": "121",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 1",
+      "image": "https://i.ibb.co/K0WwNsB/mong164.jpg"
+    },
+    {
+      "id": 122,
+      "id_wall": "122",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 2",
+      "image": "https://i.ibb.co/WFjVktx/mong165.jpg"
+    },
+    {
+      "id": 123,
+      "id_wall": "123",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 3",
+      "image": "https://i.ibb.co/zQ9NJWL/mong166.jpg"
+    },
+    {
+      "id": 124,
+      "id_wall": "124",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 4",
+      "image": "https://i.ibb.co/yRQKVnx/mong167.jpg"
+    },
+    {
+      "id": 125,
+      "id_wall": "125",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 5",
+      "image": "https://i.ibb.co/52gYpd8/mong168.jpg"
+    },
+    {
+      "id": 126,
+      "id_wall": "126",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 6",
+      "image": "https://i.ibb.co/PgymmpN/mong169.jpg"
+    },
+    {
+      "id": 127,
+      "id_wall": "127",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 7",
+      "image": "https://i.ibb.co/gM15M2V/mong170.jpg"
+    },
+    {
+      "id": 128,
+      "id_wall": "128",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 8",
+      "image": "https://i.ibb.co/93sRNDK/mong171.jpg"
+    },
+    {
+      "id": 129,
+      "id_wall": "129",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 9",
+      "image": "https://i.ibb.co/w4z86pX/mong172.jpg"
+    },
+    {
+      "id": 130,
+      "id_wall": "130",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 10",
+      "image": "https://i.ibb.co/NTnkW3L/mong173.jpg"
+    },
+    {
+      "id": 131,
+      "id_wall": "131",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 11",
+      "image": "https://i.ibb.co/V3C1qZ5/mong174.jpg"
+    },
+    {
+      "id": 132,
+      "id_wall": "132",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 12",
+      "image": "https://i.ibb.co/MnzsGm6/mong175.jpg"
+    },
+    {
+      "id": 133,
+      "id_wall": "133",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 13",
+      "image": "https://i.ibb.co/W3Pp2vh/mong176.jpg"
+    },
+    {
+      "id": 134,
+      "id_wall": "134",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 14",
+      "image": "https://i.ibb.co/WDH3Vrk/mong177.jpg"
+    },
+    {
+      "id": 135,
+      "id_wall": "135",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 15",
+      "image": "https://i.ibb.co/BgsqYN5/mong178.jpg"
+    },
+    {
+      "id": 136,
+      "id_wall": "136",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 16",
+      "image": "https://i.ibb.co/LxKgmDy/mong179.jpg"
+    },
+    {
+      "id": 137,
+      "id_wall": "137",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 17",
+      "image": "https://i.ibb.co/sVzwpw2/mong180.jpg"
+    },
+    {
+      "id": 138,
+      "id_wall": "138",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 18",
+      "image": "https://i.ibb.co/kcStMfc/mong181.jpg"
+    },
+    {
+      "id": 139,
+      "id_wall": "139",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 19",
+      "image": "https://i.ibb.co/JK44JFZ/mong182.jpg"
+    },
+    {
+      "id": 140,
+      "id_wall": "140",
+      "nama_cat": "Among Us Walls 7",
+      "judul": "IMG-G 20",
+      "image": "https://i.ibb.co/pwgVC6d/mong183.jpg"
+    },
+    {
+      "id": 141,
+      "id_wall": "141",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 1",
+      "image": "https://i.ibb.co/FDzJpyk/mong184.jpg"
+    },
+    {
+      "id": 142,
+      "id_wall": "142",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 2",
+      "image": "https://i.ibb.co/n6LMXHh/mong185.jpg"
+    },
+    {
+      "id": 143,
+      "id_wall": "143",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 3",
+      "image": "https://i.ibb.co/HxKHSdJ/mong186.jpg"
+    },
+    {
+      "id": 144,
+      "id_wall": "144",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 4",
+      "image": "https://i.ibb.co/k0J2BqX/mong187.jpg"
+    },
+    {
+      "id": 145,
+      "id_wall": "145",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 5",
+      "image": "https://i.ibb.co/BVVFG9T/mong188.jpg"
+    },
+    {
+      "id": 146,
+      "id_wall": "146",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 6",
+      "image": "https://i.ibb.co/hXPH4RQ/mong189.jpg"
+    },
+    {
+      "id": 147,
+      "id_wall": "147",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 7",
+      "image": "https://i.ibb.co/zfpB8jG/mong190.jpg"
+    },
+    {
+      "id": 148,
+      "id_wall": "148",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 8",
+      "image": "https://i.ibb.co/CbJnmR6/mong191.jpg"
+    },
+    {
+      "id": 149,
+      "id_wall": "149",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 9",
+      "image": "https://i.ibb.co/8dD0Fnx/mong192.jpg"
+    },
+    {
+      "id": 150,
+      "id_wall": "150",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 10",
+      "image": "https://i.ibb.co/wc4xr01/mong193.jpg"
+    },
+    {
+      "id": 151,
+      "id_wall": "151",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 11",
+      "image": "https://i.ibb.co/Dg81Ww8/mong194.jpg"
+    },
+    {
+      "id": 152,
+      "id_wall": "152",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 12",
+      "image": "https://i.ibb.co/8j3HhrC/mong195.jpg"
+    },
+    {
+      "id": 153,
+      "id_wall": "153",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 13",
+      "image": "https://i.ibb.co/YjfDTRn/mong196.jpg"
+    },
+    {
+      "id": 154,
+      "id_wall": "154",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 14",
+      "image": "https://i.ibb.co/68bVMvq/mong197.jpg"
+    },
+    {
+      "id": 155,
+      "id_wall": "155",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 15",
+      "image": "https://i.ibb.co/n0GhF9k/mong198.jpg"
+    },
+    {
+      "id": 156,
+      "id_wall": "156",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 16",
+      "image": "https://i.ibb.co/r747Rfm/mong199.jpg"
+    },
+    {
+      "id": 157,
+      "id_wall": "157",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 17",
+      "image": "https://i.ibb.co/9nDGSSR/mong200.jpg"
+    },
+    {
+      "id": 158,
+      "id_wall": "158",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 18",
+      "image": "https://i.ibb.co/Y8Y6SCW/mong201.jpg"
+    },
+    {
+      "id": 159,
+      "id_wall": "159",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 19",
+      "image": "https://i.ibb.co/dBc4Wy1/mong202.jpg"
+    },
+    {
+      "id": 160,
+      "id_wall": "160",
+      "nama_cat": "Among Us Walls 8",
+      "judul": "IMG-H 20",
+      "image": "https://i.ibb.co/DY66cKt/mong203.jpg"
+    },
+    {
+      "id": 161,
+      "id_wall": "161",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 1",
+      "image": "https://i.ibb.co/5RvWQJp/mong213.jpg"
+    },
+    {
+      "id": 162,
+      "id_wall": "162",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 2",
+      "image": "https://i.ibb.co/zbpvc8Y/mong214.jpg"
+    },
+    {
+      "id": 163,
+      "id_wall": "163",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 3",
+      "image": "https://i.ibb.co/NCSxswM/mong215.jpg"
+    },
+    {
+      "id": 164,
+      "id_wall": "164",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 4",
+      "image": "https://i.ibb.co/QJ9z7nn/mong216.jpg"
+    },
+    {
+      "id": 165,
+      "id_wall": "165",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 5",
+      "image": "https://i.ibb.co/6tp7FLW/mong217.jpg"
+    },
+    {
+      "id": 166,
+      "id_wall": "166",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 6",
+      "image": "https://i.ibb.co/L0wwqG8/mong218.jpg"
+    },
+    {
+      "id": 167,
+      "id_wall": "167",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 7",
+      "image": "https://i.ibb.co/DtkNJS3/mong219.jpg"
+    },
+    {
+      "id": 168,
+      "id_wall": "168",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 8",
+      "image": "https://i.ibb.co/R9LPq67/mong220.jpg"
+    },
+    {
+      "id": 169,
+      "id_wall": "169",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 9",
+      "image": "https://i.ibb.co/dBQXCCx/mong221.jpg"
+    },
+    {
+      "id": 170,
+      "id_wall": "170",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 10",
+      "image": "https://i.ibb.co/vdMH7w8/mong222.jpg"
+    },
+    {
+      "id": 171,
+      "id_wall": "171",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 11",
+      "image": "https://i.ibb.co/YWc7ZGW/mong223.jpg"
+    },
+    {
+      "id": 172,
+      "id_wall": "172",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 12",
+      "image": "https://i.ibb.co/BGbyqTr/mong224.jpg"
+    },
+    {
+      "id": 173,
+      "id_wall": "173",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 13",
+      "image": "https://i.ibb.co/yyFYcZQ/mong225.jpg"
+    },
+    {
+      "id": 174,
+      "id_wall": "174",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 14",
+      "image": "https://i.ibb.co/HP2hCXs/mong226.jpg"
+    },
+    {
+      "id": 175,
+      "id_wall": "175",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 15",
+      "image": "https://i.ibb.co/vhYWfPz/mong227.jpg"
+    },
+    {
+      "id": 176,
+      "id_wall": "176",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 16",
+      "image": "https://i.ibb.co/MV50VKL/mong228.jpg"
+    },
+    {
+      "id": 177,
+      "id_wall": "177",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 17",
+      "image": "https://i.ibb.co/YkmC3vr/mong229.jpg"
+    },
+    {
+      "id": 178,
+      "id_wall": "178",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 18",
+      "image": "https://i.ibb.co/XxY4drQ/mong230.jpg"
+    },
+    {
+      "id": 179,
+      "id_wall": "179",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 19",
+      "image": "https://i.ibb.co/t8n56wj/mong231.jpg"
+    },
+    {
+      "id": 180,
+      "id_wall": "180",
+      "nama_cat": "Among Us Walls 9",
+      "judul": "IMG-I 20",
+      "image": "https://i.ibb.co/wY7zbCz/mong232.jpg"
+    },
+    {
+      "id": 181,
+      "id_wall": "181",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 1",
+      "image": "https://i.ibb.co/Q8XrtYS/mong233.jpg"
+    },
+    {
+      "id": 182,
+      "id_wall": "182",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 2",
+      "image": "https://i.ibb.co/HP6S8BL/mong234.jpg"
+    },
+    {
+      "id": 183,
+      "id_wall": "183",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 3",
+      "image": "https://i.ibb.co/7RDy1yX/mong235.jpg"
+    },
+    {
+      "id": 184,
+      "id_wall": "184",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 4",
+      "image": "https://i.ibb.co/BtPJ7jG/mong236.jpg"
+    },
+    {
+      "id": 185,
+      "id_wall": "185",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 5",
+      "image": "https://i.ibb.co/3pf8QDZ/mong237.jpg"
+    },
+    {
+      "id": 186,
+      "id_wall": "186",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 6",
+      "image": "https://i.ibb.co/DQSz0B9/mong238.jpg"
+    },
+    {
+      "id": 187,
+      "id_wall": "187",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 7",
+      "image": "https://i.ibb.co/T8Z3YWJ/mong239.jpg"
+    },
+    {
+      "id": 188,
+      "id_wall": "188",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 8",
+      "image": "https://i.ibb.co/K0tJzPK/mong240.jpg"
+    },
+    {
+      "id": 189,
+      "id_wall": "189",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 9",
+      "image": "https://i.ibb.co/jgRNpB6/mong241.jpg"
+    },
+    {
+      "id": 190,
+      "id_wall": "190",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 10",
+      "image": "https://i.pinimg.com/564x/84/94/77/84947794b0d05231d284d5a38dc53a62.jpg"
+    },
+    {
+      "id": 191,
+      "id_wall": "191",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 11",
+      "image": "https://i.pinimg.com/564x/10/15/2b/10152b1938fb63d05206eddbce130d96.jpg"
+    },
+    {
+      "id": 192,
+      "id_wall": "192",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 12",
+      "image": "https://i.pinimg.com/564x/f2/7b/08/f27b08816e80a56ae87a4691e04e86a0.jpg"
+    },
+    {
+      "id": 193,
+      "id_wall": "193",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 13",
+      "image": "https://i.pinimg.com/564x/c2/5d/20/c25d200a13e6a20c44ae6c438cb3bf1e.jpg"
+    },
+    {
+      "id": 194,
+      "id_wall": "194",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 14",
+      "image": "https://i.pinimg.com/564x/39/ef/d8/39efd8b71c7c3da137af0d70df4f1cba.jpg"
+    },
+    {
+      "id": 195,
+      "id_wall": "195",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 15",
+      "image": "https://i.pinimg.com/564x/74/f6/51/74f651ce80c4f055fb932edf1b1d1bdc.jpg"
+    },
+    {
+      "id": 196,
+      "id_wall": "196",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 16",
+      "image": "https://i.pinimg.com/564x/b8/05/b1/b805b1385ff241b98466d7f11f2ffbc6.jpg"
+    },
+    {
+      "id": 197,
+      "id_wall": "197",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 17",
+      "image": "https://i.pinimg.com/564x/8c/b8/3d/8cb83d20bad516bcab60b32b92bd1c77.jpg"
+    },
+    {
+      "id": 198,
+      "id_wall": "198",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 18",
+      "image": "https://i.pinimg.com/564x/e0/28/d8/e028d8b746d4ae0ec22dcdf7e7a1c508.jpg"
+    },
+    {
+      "id": 199,
+      "id_wall": "199",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 19",
+      "image": "https://i.pinimg.com/564x/eb/4d/e9/eb4de94089cc53d070bf2f203a5c9c0c.jpg"
+    },
+    {
+      "id": 200,
+      "id_wall": "200",
+      "nama_cat": "Among Us Walls 10",
+      "judul": "IMG-J 20",
+      "image": "https://i.pinimg.com/564x/cb/ce/7b/cbce7bf97cd6c1711d7e15aacb8af996.jpg"
+    }
+  ]
+}
